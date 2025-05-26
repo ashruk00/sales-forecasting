@@ -26,6 +26,7 @@ This project uses historical retail sales data to build a **time-series forecast
 
 ## 🗂 Project Structure
 
+<<<<<<< HEAD
 sales-forecasting/
 │
 ├── data/ # raw data (ignored by git)
@@ -52,3 +53,5 @@ Place train.csv from Kaggle Store Sales Forecasting into the data/ folder.
 Launch the dashboard:
 
 streamlit run streamlit_app.py
+=======
+>>>>>>> 9f7bcb5 (Local updates before pull)
